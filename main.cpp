@@ -87,4 +87,4 @@ int main()
 	if (p1.getScore() > p2.getScore()) cout << "Player 1 WIN!" << endl;
 	else if (p1.getScore() < p2.getScore()) cout << "Player 2 WIN!" << endl;
 	else cout << "DRAW!" << endl;
-}
+} 
